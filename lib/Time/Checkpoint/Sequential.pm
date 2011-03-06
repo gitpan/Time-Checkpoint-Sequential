@@ -1,9 +1,9 @@
 package Time::Checkpoint::Sequential;
 # ABSTRACT: Report timing between checkpoints in code
 use strict;
-use warnings FATAL => 'all', NONFATAL => 'redefine';
+use warnings;
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 =head1 NAME
 
@@ -11,7 +11,7 @@ Time::Checkpoint::Sequential - record time taken between points in code
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 

@@ -15,4 +15,4 @@ name: Time-Checkpoint-Sequential
 requires:
   List::Util: 0
   Time::HiRes: 0
-version: 0.001
+version: 0.002
